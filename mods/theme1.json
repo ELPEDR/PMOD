@@ -3,6 +3,7 @@
   "data": {
     "name": "backs",
     "back": "https://raw.githubusercontent.com/ELPEDR/PMOD/refs/heads/main/mods/back.png",
+    "title": "https://raw.githubusercontent.com/ELPEDR/PMOD/refs/heads/main/mods/title.png",
     "steve": "https://raw.githubusercontent.com/ELPEDR/PMOD/refs/heads/main/mods/steve.png"
   }
 }
