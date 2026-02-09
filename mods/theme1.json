@@ -2,6 +2,7 @@
   "c2dictionary": true,
   "data": {
     "name": "backs",
-    "back": "https://raw.githubusercontent.com/ELPEDR/PMOD/refs/heads/main/mods/back.png"
+    "back": "https://raw.githubusercontent.com/ELPEDR/PMOD/refs/heads/main/mods/back.png",
+    "steve": "https://raw.githubusercontent.com/ELPEDR/PMOD/refs/heads/main/mods/steve.png"
   }
 }
